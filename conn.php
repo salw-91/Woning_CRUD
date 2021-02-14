@@ -2,7 +2,7 @@
 // $con = new mysqli("localhost","Salwan","","kerntaak2_woning_crud");
 
 $servername = "localhost";
-$username = "Salwan";
+$username = "root";
 $password = "";
 $dbname = "mydb";
 

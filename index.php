@@ -67,7 +67,7 @@
                      else {?>
                         <h4 class="text-center"><?php echo strtoupper("Er is geen huis gevonden!!!")?></h4>
                         <div class="d-flex justify-content-center">
-                            <a href="#addEmployeeModal" class="btn btn-success" data-toggle="modal"><i
+                            <a href="#add" class="btn btn-success" data-toggle="modal"><i
                                     class="material-icons">&#xE147;</i> <span>Add New Huis</span></a>
                         </div>
                     <?php }?>
